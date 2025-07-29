@@ -1,5 +1,4 @@
-# 📖 What is Open Science?  
-**オープンサイエンスとは？**
+# 📖 What is Open Science? / オープンサイエンスとは？
 
 ---
 
@@ -17,13 +16,6 @@ The goal is not only transparency, but also fairness and efficiency. Open Scienc
 
 🧭 *“Open” is not only about access, but also about accountability.*  
 
-## 📚 Further Reading
-
-- Ministry of Education, Culture, Sports, Science and Technology (MEXT). [Open Science Strategy (in Japanese)](https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu22/siryo/__icsFiles/afieldfile/2016/12/08/1380241_04.pdf), 2016.
-- OECD. *Making Open Science a Reality*. OECD Science, Technology and Industry Policy Papers No. 25, 2015.
-- UNESCO. *Recommendation on Open Science*, 2021.
-
-
 ---
 
 ## 🇯🇵 日本語
@@ -40,11 +32,15 @@ The goal is not only transparency, but also fairness and efficiency. Open Scienc
 
 🧭 *「オープン」とは単に無料で見られるという意味ではなく、「説明責任と倫理的開示」のことでもあるのです。*
 
-## 📚 参考資料
+---
+
+## 📚 Further Reading / 参考資料
 
 - 文部科学省（2016）『オープンサイエンスに関する取組状況について』  
-  https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu22/siryo/__icsFiles/afieldfile/2016/12/08/1380241_04.pdf  
-- OECD（2015）『Making Open Science a Reality』  
-- UNESCO（2021）『Recommendation on Open Science』
+  [PDF](https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu22/siryo/__icsFiles/afieldfile/2016/12/08/1380241_04.pdf)
+- OECD (2015). *Making Open Science a Reality*. OECD Science, Technology and Industry Policy Papers No. 25.  
+  [Link](https://www.oecd.org/sti/making-open-science-a-reality.htm)
+- UNESCO (2021). *Recommendation on Open Science*.  
+  [Link](https://unesdoc.unesco.org/ark:/48223/pf0000379949)
 
 
