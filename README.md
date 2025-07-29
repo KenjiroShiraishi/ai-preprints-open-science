@@ -14,6 +14,37 @@ It offers tools, examples, and prompts that support ethical, transparent, and pa
 
 ## 📁 Contents  
 
+---
+
+## ❓ Why This Matters / なぜこの教材が必要なのか？
+
+In an era where generative AI and preprints are becoming default tools for students and early-career researchers, understanding their ethical and practical implications is no longer optional—it's essential.
+
+Soon, students will be more fluent in using AI tools than their supervisors. Preprints will become standard entry points to research visibility. If educators, reviewers, and senior researchers do not engage with these changes, a **generational gap in epistemic authority** will emerge.
+
+This repository aims to equip all learners—especially instructors—with tools, concepts, and real-world examples to:
+
+- Understand the shifts in scientific authorship and communication
+- Preserve intellectual responsibility in the age of AI
+- Promote open, reproducible, and trustworthy science
+
+---
+
+## ❓ なぜこのリポジトリが必要なのか？
+
+生成AIとプレプリントの活用は、学生や若手研究者にとってはもはや「特殊な技術」ではなく、**日常的な学習・発信ツール**になりつつあります。
+
+その結果、「学生のほうがAIやオープンサイエンスに詳しい」「教員が時代遅れに見える」という**指導者と学習者の認識ギャップ**が加速するおそれがあります。
+
+このリポジトリは、とくに**教える側・レビューする側・制度を作る側**が以下を実践できるよう支援することを目的としています：
+
+- 研究の透明性と倫理的責任を理解する  
+- AI活用における責任の所在を明示する  
+- オープンサイエンスの価値を学生と共に育てる  
+
+---
+
+
 ### 📘 Learn More  
 - [What is Open Science? / オープンサイエンスとは？](docs/what-is-open-science.md)  
 - [What is a Preprint? / プレプリントとは？](https://github.com/KenjiroShiraishi/ai-preprints-open-science/blob/main/docs/what-is-a-preprint.md)  
