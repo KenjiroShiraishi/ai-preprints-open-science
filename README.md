@@ -25,6 +25,9 @@ These shifts are not just technological but cultural, redefining what it means t
 
 - [What is Open Science?](docs/what-is-open-science.md)
 - [What is a Preprint?](docs/what-is-a-preprint.md)
+- [What is a DOI?](docs/what-is-a-DOI.md)
+- [What is a Repository?](docs/what-is-repository.md)
+- [What is GitHub?](docs/what-is-github.md)
 - [What Are the Challenges of Using AI in Research?](docs/what-are-the-challenges-of-using-ai-in-research.md)
 
 📄 Related Resource
