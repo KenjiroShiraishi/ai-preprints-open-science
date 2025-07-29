@@ -1,51 +1,81 @@
-# 🌐 What is GitHub? / GitHubとは何か？
-
-## 🧭 English
-
-GitHub is a web-based platform used to host, manage, and collaborate on software projects. It is built on Git, a distributed version control system originally developed by Linus Torvalds.
-
-GitHub allows users to:
-
-- Track and manage changes in code using **version control**
-- Host and share open-source and private projects
-- Collaborate through **pull requests**, **issues**, and **discussions**
-- Create and maintain **repositories** that organize project files, code, and documentation
-
-GitHub is widely used in software development, but is also popular in research, education, and data science communities. Users can share notebooks, publish websites with GitHub Pages, and even archive AI prompts and writing processes for transparency.
-
-### 🛠 Similar Services
-
-- **GitLab** – Offers CI/CD tools and self-hosting options
-- **Bitbucket** – Integrated with Atlassian products like Jira
-- **SourceForge** – One of the oldest platforms for open-source software hosting
-- **Codeberg** – A privacy-focused, open-source alternative
+# 🧠 AI, Preprints, and Open Science  
+**Learning, Teaching, and Applying Open Science: An Educational Model Using AI and Preprints**
 
 ---
 
-## 🇯🇵 日本語
+## 🔍 Overview
+This repository provides resources for exploring how Artificial Intelligence (AI), preprints, and open science can be integrated into education and academic practice.  
+It offers tools, examples, and prompts that support ethical, transparent, and participatory science.
 
-GitHub（ギットハブ）は、ソフトウェア開発や研究プロジェクトのための**Webベースのコード管理・共有プラットフォーム**です。Gitという分散型バージョン管理システム（Linus Torvalds開発）を基盤としています。
-
-GitHubでは、以下のようなことが可能です：
-
-- **バージョン管理**を通じて変更履歴を追跡・管理する
-- プロジェクトを公開（オープンソース）または非公開でホストする
-- **Pull Request**や**Issue**、**Discussion**を用いた共同作業
-- **リポジトリ（repository）**として、コード・資料・ドキュメントを一元管理する
-
-近年では、プログラミング以外にも、教育・研究・オープンサイエンスの分野で活用が広がっています。AIのプロンプトや論文執筆の過程を保存する場としても注目されています。
-
-### 🛠 類似サービス
-
-- **GitLab** – CI/CD（自動化）機能が強力で、自前サーバでの運用も可能
-- **Bitbucket** – Jiraとの連携に優れる
-- **SourceForge** – 歴史あるオープンソース向けホスティング
-- **Codeberg** – プライバシー重視のオープンな代替サービス
+- **OSF Project**: https://osf.io/sjknp  
+- **DOI**: [10.17605/OSF.IO/SJKNP](https://doi.org/10.17605/OSF.IO/SJKNP)
 
 ---
 
-## 📚 References / 参考文献
+## ❓ Why This Matters
+In an era where generative AI and preprints are becoming default tools for students and early-career researchers, understanding their ethical and practical implications is no longer optional—it's essential.
 
-- GitHub Docs. [About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)  
-- GitHub Docs. [About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)  
-- Wikipedia. [GitHub](https://en.wikipedia.org/wiki/GitHub) (Accessed 2025-07-29)
+Soon, students will be more fluent in using AI tools than their supervisors. Preprints will become standard entry points to research visibility. If educators, reviewers, and senior researchers do not engage with these changes, a generational gap in epistemic authority will emerge.
+
+These shifts are not just technological but cultural, redefining what it means to do science in a transparent and ethical way.
+
+---
+
+## 📘 Learn More
+
+- [What is Open Science?](docs/what-is-open-science.md)
+- [What is a Preprint?](docs/what-is-a-preprint.md)
+- [What Is GitHub?](docs/what-is-github.md)
+- [What Are the Challenges of Using AI in Research?](docs/what-are-the-challenges-of-using-ai-in-research.md)
+
+📄 Related Resource
+
+- [Prompt Preservation Example (AI Use Policy Project)](https://github.com/KenjiroShiraishi/ai-use-policy-in-scholarly-writing)
+
+---
+
+## 🧑‍🏫 Intended Use
+This repository is designed for:
+
+- Students and researchers learning about open science  
+- Educators who wish to teach AI and preprints in a practical context  
+- Anyone seeking to practice transparent science and share early findings
+
+---
+
+## ⚙️ How to Use This Repository
+
+1. **Start with the Learn More section** to understand core concepts.
+2. **Explore the `/prompts/` folder** for real-world examples of AI use in writing.
+3. **Read the PDF prompt archives** to learn how to document your AI interactions responsibly.
+4. **Fork this repository** to adapt the content for your own teaching or research needs.
+
+---
+
+## 🤝 Contributing
+
+This is an open and collaborative project.  
+If you have suggestions or improvements, please feel free to fork the repository and send a pull request.
+
+📌 *Note: Others cannot modify this repository directly without permission.  
+All proposed changes must go through a pull request.*
+
+---
+
+## 🔖 License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to copy, redistribute, remix, and adapt the material for any purpose, including commercial use, as long as proper credit is given.
+
+---
+
+## 🔒 Ethical Use Notice
+
+While the CC BY 4.0 license permits commercial reuse, we explicitly discourage use by for-profit academic publishers that do not contribute to open science or public benefit—especially those operating behind paywalls.  
+If you wish to adapt or redistribute this content for such commercial purposes, please contact the author first and respect the spirit of open and ethical science.
+
+---
+
+## ✨ Acknowledgements
+
+We believe in the power of collaborative knowledge creation and thank all educators, researchers, and volunteers committed to open and ethical science.
