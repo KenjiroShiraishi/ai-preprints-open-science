@@ -14,7 +14,7 @@ It offers tools, examples, and prompts that support ethical, transparent, and pa
 
 ## 📁 Contents  
 
-## ❓ Why This Matters / なぜこの教材が必要なのか？
+## ❓ Why This Matters 
 
 In an era where generative AI and preprints are becoming default tools for students and early-career researchers, understanding their ethical and practical implications is no longer optional—it's essential.
 
