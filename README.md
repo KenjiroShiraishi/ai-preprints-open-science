@@ -27,6 +27,10 @@ These shifts are not just technological but cultural, redefining what it means t
 - [What is a Preprint?](docs/what-is-a-preprint.md)
 - [What Are the Challenges of Using AI in Research?](docs/what-are-the-challenges-of-using-ai-in-research.md)
 
+📄 Related Resource
+
+- [Prompt Preservation Example (AI Use Policy Project)](https://github.com/KenjiroShiraishi/ai-use-policy-in-scholarly-writing)
+
 ---
 
 ## 🧑‍🏫 Intended Use
