@@ -9,10 +9,9 @@ It offers tools, examples, and prompts that support **ethical, transparent, and 
 - DOI: [10.17605/OSF.IO/SJKNP](https://doi.org/10.17605/OSF.IO/SJKNP)
 
 ## 📁 Contents  
-- `/prompts/`: Example prompts and outputs for AI-assisted learning and writing  
-- `/slides/`: Slide materials and outlines for teaching sessions  
-- `/templates/`: Preprint formatting examples and ethical disclosure templates  
-- `README.md`: Project overview and usage notes  
+📘 Learn More  
+- [What is Open Science? / オープンサイエンスとは？](docs/what-is-open-science.md)
+
 
 ## 🧑‍🏫 Intended Use  
 This repository is designed for:
